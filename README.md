@@ -38,5 +38,6 @@ const DavidDenis = {
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidenisDEV&layout=compact&theme=dark)
 
 
+
 </br>
 *David Denis* © 2024 🌱
