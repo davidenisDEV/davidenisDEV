@@ -17,17 +17,17 @@
 
 ```javascript
 const DavidDenis = {
-   code: ["PYTHON", "HTML", "JS", "CSS", "JAVA"],
+   code: ["PYTHON", "JS", "JAVA"],
    technologies: {
        frontEnd: {
-           js: ["React.js", "Vue.js"]
+           js: ["React.js"]
        },
        backEnd: {
-           mysql: ["MySQL WorkBench"]
+           mysql: ["MySQL-WorkBench", "Node", "AWS"]
        },
        competitive: {
            compilerLang: ["JAVA"],
-           interpretedLang: ["PYTHON"]
+           interpretedLang: ["PYTHON", "JavaScript"]
        }
    }
 };
