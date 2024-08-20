@@ -26,7 +26,7 @@ const DavidDenis = {
            mysql: ["MySQL-WorkBench", "Node", "AWS"]
        },
        competitive: {
-           compilerLang: ["JAVA"],
+           compilerLang: ["JAVA", "Kotlin"],
            interpretedLang: ["PYTHON", "JavaScript"]
        }
    }
