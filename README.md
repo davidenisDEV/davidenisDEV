@@ -35,10 +35,14 @@ const DavidDenis = {
 
 ## GitHub Stats ! 💻
 
-<div align="center"> 
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenisDEV&layout=compact&theme=dark&border_color=dark)
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidenisDEV&layout=compact&theme=dark)
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidenisDEV&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?    username=davidenisDEV&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Mayra Letícia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidenisDEV&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenisDEV&layout=compact&theme=dark&border_color=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidenisDEV&layout=compact&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidenisDEV&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 *David Denis* © 2024 🌱
