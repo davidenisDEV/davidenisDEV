@@ -13,25 +13,6 @@
   <img align="center" alt="Denis-MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-### Denis.Js:
-
-```javascript
-const DavidDenis = {
-   code: ["PYTHON", "JS", "JAVA"],
-   technologies: {
-       frontEnd: {
-           js: ["React.js"]
-       },
-       backEnd: {
-           mysql: ["MySQL-WorkBench", "Node", "AWS"]
-       },
-       competitive: {
-           compilerLang: ["JAVA", "Kotlin"],
-           interpretedLang: ["PYTHON", "JavaScript"]
-       }
-   }
-};
-```
 
 ## GitHub Stats ! 💻
 
