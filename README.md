@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&lines=Hello+guys!,+My+name+is+David+Denis;I'm+22+years+old;I'm+from+Brazil;I'm+Full-Stack+Developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&lines=Hello+guys!+My+name+is+David+Denis;I'm+22+years+old;I'm+from+Brazil;I'm+Full-Stack+Developer;)
 ## Conecte-se comigo ! ☎️
 <a href="https://www.linkedin.com/in/daviddenisdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRvKtRTGlwFnZPFLmKHwbRfSgkmktmdnfCfQWrpSgJtLpRmHkVVHbVchrwlvrSmvNsTMW)
