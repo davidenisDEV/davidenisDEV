@@ -35,10 +35,10 @@ const DavidDenis = {
 
 ## GitHub Stats ! 💻
 
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenisDEV&layout=compact&theme=dark&border_color=dark)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidenisDEV&layout=compact&theme=dark)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidenisDEV&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center"> 
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenisDEV&layout=compact&theme=dark&border_color=dark)
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidenisDEV&layout=compact&theme=dark)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidenisDEV&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 *David Denis* © 2024 🌱
