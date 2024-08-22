@@ -34,6 +34,8 @@ const DavidDenis = {
 ```
 
 ## GitHub Stats ! 💻
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidenisDEV&bg_color=ffffff&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidenisDEV&layout=compact&theme=dark&border_color=dark)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidenisDEV&layout=compact&theme=dark)
 
