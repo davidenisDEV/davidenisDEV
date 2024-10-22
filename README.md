@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kotlin,java,js,html,css,react,vue" />
+    <img src="https://skillicons.dev/icons?i=py,kotlin,js,html,css,react,vue" />
   </a>
 </p>
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,idea,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,figma" />
   </a>
 </p>
 
