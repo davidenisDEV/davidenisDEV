@@ -11,12 +11,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kotlin,js,html,css,react,vue" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,vue" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,nodejs,postman,flask,express" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,nodejs,postman,flask,express" />
   </a>
 </p>
 <p align="center">
