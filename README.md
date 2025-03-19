@@ -1,11 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&lines=Hello+guys!+My+name+is+David+Denis;I'm+from+Brazil;I'm+Full-Stack+Python+Developer;)
 
-## Conecte-se comigo ! ☎️
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
-  </a>
-</p>
 
 ## Habilidades ! ⚡
 
