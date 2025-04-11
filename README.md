@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&lines=Hello+guys!+My+name+is+David+Denis;I'm+from+Brazil;I'm+Full-Stack+Python+Developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&lines=Hello+guys!+My+name+is+David+Denis;I'm+from+Brazil;I'm+Full-Stack+Python+Developer;I'm+Full-Stack+JavaScript+Next.js+and+React.js+Developer)
 
 
 ## Habilidades ! ⚡
