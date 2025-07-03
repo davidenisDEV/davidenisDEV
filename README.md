@@ -10,12 +10,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,nodejs,postman,flask,express" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,postman,flask,express" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma" />
   </a>
 </p>
 
