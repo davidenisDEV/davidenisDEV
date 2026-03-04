@@ -48,7 +48,7 @@ Desenvolvedor Full-Stack focado em construir **ecossistemas digitais de alta per
   
 | Nome do Projeto | Tecnologias | Descrição | Status |
 |---------|------------|-------------| :---: |
-| **[GoGreen SaaS & PDV](https://github.com/davidenisDEV/master)** | `Next.js` `Supabase` `TypeScript` | Plataforma E-commerce híbrida com Ponto de Venda (PDV), CRM, Auth OAuth e checkout via WhatsApp. | 🚀 Live |
+| **[GoGreen SaaS & PDV](https://github.com/davidenisDEV/gogreen)** | `Next.js` `Supabase` `TypeScript` | Plataforma E-commerce híbrida com Ponto de Venda (PDV), CRM, Auth OAuth e checkout via WhatsApp. | 🚀 Live |
 | **[PC Cleaner Optimizer](https://github.com/davidenisDEV/limpezaPC)** | `Python` `OS Module` `GUI` | Ferramenta desktop construída para automação de limpeza profunda e otimização de sistemas. | 💻 App |
 | **[Developer Portfolio](https://master-wbcr.vercel.app/)** | `React` `Tailwind` `Framer Motion` | Portfólio de alta performance focado em conversão e UI/UX avançada com animações fluidas. | 🚀 Live |
 
